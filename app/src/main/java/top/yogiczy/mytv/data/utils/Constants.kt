@@ -17,7 +17,7 @@ object Constants {
     /**
      * IPTV源地址
      */
-    const val IPTV_SOURCE_URL = "http://1.2.3.4/live.m3u"
+    const val IPTV_SOURCE_URL = "http://us.3223516.xyz:55000/tv.m3u"
 
     /**
      * IPTV源缓存时间（毫秒）
@@ -27,7 +27,7 @@ object Constants {
     /**
      * 节目单XML地址
      */
-    const val EPG_XML_URL = "http://epg.51zmt.top:8000/e.xml.gz"
+    const val EPG_XML_URL = "https://e.erw.cc/all.xml.gz"
 
     /**
      * 节目单刷新时间阈值（小时）
